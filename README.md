@@ -1,4 +1,4 @@
-# Genetic Algorithm-Based Neural Network Hyperparameter Optimization Experiment (Subject To Change)
+# Genetic Algorithm-Based Neural Network Hyperparameter Optimization Experimentation (Subject To Change)
 
 ## Overview
 
