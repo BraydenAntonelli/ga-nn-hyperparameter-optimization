@@ -49,8 +49,6 @@ To ensure fairness, all tuning methods are compared under the same evaluation bu
 ## Deliverables
 
 ```text
-.
-## Repository Structure
 
 ├── experiments/
 │   ├── GA_experiments.ipynb    # notebook containing Grid Search, Random Search, and GA experiments
