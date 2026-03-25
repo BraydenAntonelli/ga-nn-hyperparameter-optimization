@@ -46,11 +46,16 @@ Each tuning method is evaluated using:
 
 To ensure fairness, all tuning methods are compared under the same evaluation budget. Multiple random seeds are used to improve the reliability of the results and reduce the effect of stochastic variation.
 
-## Repository Structure
+## Deliverables
 
 ```text
 .
-├── README.md
-├── term_experiments.ipynb
-├── ref.bib
-└── paper/
+## Repository Structure
+
+├── experiments/
+│   ├── GA_experiments.ipynb    # notebook containing Grid Search, Random Search, and GA experiments
+│
+├── paper/
+│   ├── paper.pdf                 # LaTeX compiled paper
+│
+├── README.md                     # project overview
